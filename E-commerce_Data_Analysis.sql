@@ -1,4 +1,4 @@
--- E-commerce Data Analysis Project
+-- E-commerce Data Analysis 
 -- This script analyzes customer transactions and product sales data from an e-commerce platform.
 -- The dataset was loaded using the Table Data Import Wizard in MySQL Workbench.
 
