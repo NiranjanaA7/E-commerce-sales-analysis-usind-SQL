@@ -181,20 +181,25 @@ A planned drillthrough page for per-customer order history and purchase detail.
 ## 📷 Dashboard Preview
 
 ```text
-images/
-├── executive-summary.png
-├── customer-analytics.png
-└── product-analytics.png
+├── img
+│   ├── Executive_Summary.png
+│   ├── Customer_Analytics.png
+│   └── Product_Analytics.png
 ```
 
 ```md
-## Executive Summary
+## 📷 Dashboard Preview
+
+### Executive Summary
+
 ![Executive Summary](img/Executive_Summary.png)
 
-## Customer Analytics
+### Customer Analytics
+
 ![Customer Analytics](img/Customer_Analytics.png)
 
-## Product Analytics
+### Product Analytics
+
 ![Product Analytics](img/Product_Analytics.png)
 ```
 
