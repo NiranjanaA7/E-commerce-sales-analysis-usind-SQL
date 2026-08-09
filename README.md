@@ -186,8 +186,6 @@ A planned drillthrough page for per-customer order history and purchase detail.
 │   ├── Customer_Analytics.png
 │   └── Product_Analytics.png
 ```
-
-```md
 ## 📷 Dashboard Preview
 
 ### Executive Summary
@@ -201,9 +199,6 @@ A planned drillthrough page for per-customer order history and purchase detail.
 ### Product Analytics
 
 ![Product Analytics](img/Product_Analytics.png)
-```
-
----
 
 ## 📁 Project Structure
 
