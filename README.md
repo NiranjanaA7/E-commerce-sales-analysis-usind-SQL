@@ -241,11 +241,4 @@ Data Visualization · Business Analysis · Dashboard Design
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-Aspiring Data Analyst
-
----
-
 > An end-to-end e-commerce analytics project demonstrating the full workflow from relational SQL analysis through Power BI data modeling, DAX, and interactive dashboard design across customer, product, and executive-level views.
