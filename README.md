@@ -189,13 +189,13 @@ images/
 
 ```md
 ## Executive Summary
-![Executive Summary](img/executive-summary.png)
+![Executive Summary](img/Executive_Summary.png)
 
 ## Customer Analytics
-![Customer Analytics](img/customer-analytics.png)
+![Customer Analytics](img/Customer_Analytics.png)
 
 ## Product Analytics
-![Product Analytics](img/product-analytics.png)
+![Product Analytics](img/Product_Analytics.png)
 ```
 
 ---
